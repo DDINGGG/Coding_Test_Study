@@ -1,5 +1,6 @@
 import sys
 import re
+#
 
 sik=sys.stdin.readline().split('-')
 
